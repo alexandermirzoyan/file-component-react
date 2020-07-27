@@ -1,0 +1,29 @@
+$color-red: #D60000;
+$color-green: #247D46;
+
+$color-grey--extralight: #F2F2F2;
+$color-grey--lightest: #ECF1EE;
+$color-grey--lighten: #DDDDDD;
+$color-grey--light: #BABABA;
+$color-grey: #8B8B8B;
+$color-grey--dark: #565656;
+
+$color-main: $color-green;
+
+$gradient-red: linear-gradient(90deg, #840000 -10.04%, #D60000 98.7%);
+$gradient-red--reverse: linear-gradient(90deg, #D60000 -1.67%, #840000 98.7%);
+$gradient-green: linear-gradient(90deg, #247D46 0%, #00A740 100%);
+$gradient-green--reverse: linear-gradient(90deg, #00A740 1.68%, #247D46 98.32%);
+$gradient-grey: linear-gradient(90deg, #393939 0%, #656565 100%);
+
+$fontMardoto: 'Mardoto';
+$fontMontserratArm: 'Montserrat arm';
+$baseFontFamily: $fontMardoto, Arial, sans-serif;
+
+$rowWidth: 1275px;
+$columnSpace: 12px;
+
+$mediaMedium: 40em;
+$mediaMediumLarge: 1201px;
+//$mediaLarge: 1367px;
+$mediaLarge: 64em;
